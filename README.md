@@ -1,4 +1,5 @@
-<img width="439" height="396" alt="image" src="https://github.com/user-attachments/assets/33ebcf69-8045-4056-b2a1-af46e0041c09" />Notes Manager – Java File I/O Project
+Notes Manager – Java File I/O Project
+
 A professional, beginner-friendly Java console application to create, view, search, and delete notes — built using FileReader and FileWriter.
 
 Features
